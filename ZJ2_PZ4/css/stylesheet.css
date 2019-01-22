@@ -1,0 +1,36 @@
+/* Mám jinou hodnotu v {#blue, top}, než je v grafickém návrhu, protože mám jiné Lorem ipsum, než je v zadání. */
+
+#red
+{
+  background-color: red;
+  padding: 10px;
+  position: absolute;
+  top: 30px;
+  left: 30px;
+  width: 1000px;
+  height: 100px
+}
+
+#blue
+{
+  background-color: blue;
+  border: 5px solid black;
+  padding: none;
+  position: absolute;
+  top: 150px;
+  left: 100px;
+  width: 700px;
+  height: 50px
+}
+
+#green
+{
+  background-color: green;
+  border: 5px solid black;
+  padding: 5px;
+  position: absolute;
+  top: 280px;
+  left: 200px;
+  width: 200px;
+  height: 150px;
+}

@@ -1,0 +1,31 @@
+*
+{
+	margin: 0px
+}
+
+
+
+body
+{
+	background-color: white;
+}
+#header
+{
+	font-size: 35px;
+	text-align: center;
+	color: green;
+}
+p, li
+{
+	font-family: "Times New Roman", Times, serif;
+	font-size: 20px;
+}
+.smallheader
+{
+	font-size: 30px;
+	
+}
+td, th
+{
+	font-size: 20px
+}
