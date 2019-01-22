@@ -1,0 +1,71 @@
+
+body 
+{
+    background-color: #AAAAAA;
+    font-family: "Arial";
+    
+}
+p
+{
+    font-size: 14px;
+    text-indent: 15px;
+}
+
+body
+{
+    background-image: url('../graphics/kytka.jpg');
+    background-repeat: no-repeat;
+    background-position: center 500px;
+    /* Nastavil jsem x osu na "center", aby to bylo dobré i podle velikosti monitoru. */
+}
+
+
+h1
+{
+    color: #336699;
+    font-size: 26px;
+    font-weight: bold;
+}
+
+h2
+{
+    color: #336699;
+    font-size: 22px;
+    font-weight: bold;
+}
+
+.basic
+{
+  color: #336699  
+}
+
+.down
+{
+    color: #336699;
+    font-size: 16px;
+    font-weight: bold;
+}
+
+hr
+{
+    height: 5px;
+    background-color: #336699;
+}
+
+.first
+{
+    border-width: 3px;
+    border-style: solid;
+    color: #336699;
+    float: left;
+    margin-right: 15px;
+}
+
+.second
+{
+    border-width: 3px;
+    border-style: solid;
+    color: #336699;
+    float: right;
+    margin-left: 15px;
+}

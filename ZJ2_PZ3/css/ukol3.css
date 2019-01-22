@@ -1,0 +1,26 @@
+ul
+{
+  padding: 0;
+  margin-top: 1em;
+  margin-bottom: 1em;
+  margin-left: 0;
+  margin-right: 0;
+  text-align: center;
+}
+
+li
+{
+  display: inline;
+  list-style-type: none;
+  margin-top: 0;
+  margin-bottom: 0;
+  margin-left: 0.5em;
+  margin-right: 0.5em;
+  padding-top: 0.2em;
+  padding-bottom: 0.2em;
+  padding-left: 0.5em;
+  padding-right: 0.5em;
+  background-color: yellow;
+  color: black;
+
+}

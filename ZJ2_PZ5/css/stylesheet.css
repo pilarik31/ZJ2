@@ -1,0 +1,109 @@
+p
+{
+  font-size: 16px;
+  font-family: Arial
+}
+
+h1
+{
+  font-size: 24px;
+  color: #974578;
+  border-bottom: 12px;
+}
+
+h2
+{
+  font-size: 20px;
+  color: #84c225;
+  border-top: 12px;
+  border-bottom: 16px;
+}
+
+.childrenTypes
+{
+  color: #974578;
+  font-weight: bold;
+}
+
+#wrapper
+{
+  width: 1000px;
+  margin-left: auto;
+  margin-right: auto;
+  display: block;
+}
+
+#header
+{
+  width: 1000px;
+  height: 150px;
+  background-color: #974578;
+  background-image: url(../graphics/hlava.jpg);
+  background-repeat: no-repeat;
+  background-position: 8px;
+}
+
+.headerLink
+{
+  position: absolute;
+  margin-left: 845px;
+}
+
+
+
+#menu
+{
+  width: 1000px;
+  font-weight: bold;
+  height: 33px;
+  background-color: #84c225;
+}
+
+.menuUl
+{
+  display: block;
+  text-align: center;
+  margin: 0;
+  padding: 0;
+}
+
+.menuLi
+{
+  display: block;
+  margin-top: 8px;
+  float: left;
+  list-style-type: none;
+}
+
+.menuLi a
+{
+  display: block;
+  font-size: 16px;
+  font-weight: bold;
+  width: 160px;
+  color: white;
+  text-decoration: none;
+}
+
+.menuLi a:hover
+{
+  color: yellow;
+}
+
+#content
+{
+  display: block;
+  width: 988px;
+  margin-top: 10px;
+  border: 1px #974578 solid;
+  padding: 5px;
+}
+
+#footer
+{
+  width: 1000px;
+  height: 33px;
+  margin-top: 10px;
+  background-color: #84c225;
+  text-align: center;
+}

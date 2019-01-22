@@ -1,0 +1,15 @@
+.skryt
+{
+  display: none;
+}
+
+#navig
+{
+  position: absolute;
+  top: 1em;
+  right: 1em;
+  width: 8em;
+  padding: 0.5em;
+  background-color: yellow;
+  border: solid 1px black;
+}

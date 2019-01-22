@@ -1,0 +1,56 @@
+
+body
+{
+    margin: auto;
+    border: 5px;
+    width: 610px;
+
+}
+
+p
+{
+  font-size: 16px;
+}
+
+h1
+{
+    color: brown;
+}
+
+h2
+{
+    color: blue;
+}
+
+ul
+{
+    color: orange;
+}
+
+.actual
+{
+  display: inline;
+    color: black;
+    text-decoration: underline;
+    background: yellow;
+    margin: 0;
+    margin-right: 0;
+    padding-right: 0;
+    list-style-type: none;
+}
+.italic
+{
+    font-style: italic;
+}
+.posledni_veta
+{
+    color: #BA55D3;
+    font-style: italic;
+
+}
+
+img
+{
+    display: block;
+    margin: auto;
+}
